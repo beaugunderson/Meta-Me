@@ -1,0 +1,15 @@
+{
+	"author": "Beau Gunderson <beau@beaugunderson.com>",
+	"name": "meta-me",
+	"version": "0.0.1",
+	"description": "",
+	"repository": {
+		"title": "Meta Me",
+		"type": "app",
+		"static": true,
+		"uses": {
+			"types": ["contacts"],
+			"services": ["github"]
+		}
+	}
+}
