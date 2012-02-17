@@ -2,7 +2,7 @@
 	"author": "Beau Gunderson <beau@beaugunderson.com>",
 	"name": "meta-me",
 	"version": "0.0.1",
-	"description": "",
+	"description": "Store metadata about yourself in your Locker or Singly account",
 	"repository": {
 		"title": "Meta Me",
 		"type": "app",
