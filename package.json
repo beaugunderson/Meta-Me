@@ -1,15 +1,23 @@
 {
-	"author": "Beau Gunderson <beau@beaugunderson.com>",
-	"name": "meta-me",
-	"version": "0.0.2",
-	"description": "Store metadata about yourself in your Locker or Singly account",
-	"repository": {
-		"title": "Meta Me",
-		"type": "app",
-		"static": true,
-		"uses": {
-			"types": ["contacts"],
-			"services": ["github"]
-		}
-	}
+  "name": "Meta Me",
+  "author": "Beau Gunderson <beau@beaugunderson.com>",
+  "description": "Store metadata about yourself in your Locker or Singly account",
+  "version": "0.0.2",
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://creativecommons.org/licenses/MIT/"
+  }],
+  "repository": {
+    "title": "Meta Me",
+    "handle": "meta-me",
+    "static": true,
+    "homepage": "https://github.com/beaugunderson/Meta-Me",
+    "github": "https://github.com/beaugunderson/Meta-Me",
+    "type": "app",
+    "uses": {
+      "types": [
+        "contacts"
+      ]
+    }
+  }
 }
