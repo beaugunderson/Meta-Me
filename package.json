@@ -2,7 +2,7 @@
   "name": "Meta Me",
   "author": "Beau Gunderson <beau@beaugunderson.com>",
   "description": "Store metadata about yourself in your Locker or Singly account",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "licenses": [{
     "type": "MIT",
     "url": "http://creativecommons.org/licenses/MIT/"
